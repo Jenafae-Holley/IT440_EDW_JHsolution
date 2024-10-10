@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="(local).EC_IT440_DL"
+  DTS:DTSID="{4FCD90C3-2211-4BA0-91C0-939252D8E7F8}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=NINS-LAPPY;Initial Catalog=EC_IT440_DL;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-{4FCD90C3-2211-4BA0-91C0-939252D8E7F8}(local).EC_IT440_DL;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
