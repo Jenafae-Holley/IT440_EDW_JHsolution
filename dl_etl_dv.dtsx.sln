@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "dl_etl_dv.dtsx", "dl_etl_dv.dtsx\dl_etl_dv.dtsx.dtproj", "{01E9C432-90D5-4624-AFDE-05579A97244B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E9C432-90D5-4624-AFDE-05579A97244B}.Development|Default.ActiveCfg = Development
+		{01E9C432-90D5-4624-AFDE-05579A97244B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468BD6AC-832E-4AD8-BD5E-E98F3A99E3D7}
+	EndGlobalSection
+EndGlobal
